@@ -1,11 +1,11 @@
-# 🕵️‍♂️ Anti-Money Laundering (AML) Transaction Analysis Dashboard
+# Anti-Money Laundering (AML) Transaction Analysis Dashboard
 
 
 > **Download the full Power BI (.pbix) file [here](https://drive.google.com/drive/u/0/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&hl=en)**  
 > (200 MB – hosted on Google Drive due to GitHub's size limit)
 
 
-## 📊 Project Overview
+## Project Overview
 
 This project is a data-driven investigation into suspected money laundering activity using transactional data. The goal is to identify laundering trends, high-risk entities, common laundering methods, and temporal patterns, and to provide actionable recommendations for AML compliance and enforcement teams.
 
@@ -13,7 +13,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 📁 Dataset Summary
+## Dataset Summary
 
 - **Total transactions analyzed**: 10,000,000  
 - **Laundered transactions**: 9,873  
@@ -28,7 +28,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **UK accounts** are involved in **93.7% of all laundered transactions**.
 - **Cross-border payments** were the top laundering method, followed by **cash deposits** and **ACH**.
@@ -39,7 +39,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Power BI** for data modeling, visualization, and KPI dashboards
 - **DAX** (Data Analysis Expressions) for calculated measures and advanced logic
@@ -48,7 +48,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - Apply **enhanced monitoring to UK-UK transactions**, especially involving high-value amounts or unusual frequency.
 - Implement rules to detect **structuring patterns**, e.g., multiple transactions just below thresholds.
@@ -59,7 +59,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Incorporate real-time transaction scoring
 - Add geolocation-level analysis (city/branch)
@@ -68,7 +68,7 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![image](https://github.com/user-attachments/assets/e52d2c54-fd1c-4b74-8e95-c334aa1a4d64)
 ![image](https://github.com/user-attachments/assets/116e215b-e40c-4f7c-bb29-7b51df8110bd)
@@ -78,13 +78,13 @@ The project uses Power BI to visualize insights and DAX to power custom KPIs, me
 
 ---
 
-## 🛡️ Disclaimer
+## Disclaimer
 
 This project uses **anonymized data** and is intended for **educational and analytical purposes only**. It does not reflect real-world financial activity or confidential client information.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or collaborations, feel free to [open an issue](https://github.com/TheDucky-2) or contact me directly.
 
