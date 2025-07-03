@@ -1,5 +1,10 @@
 # 🕵️‍♂️ Anti-Money Laundering (AML) Transaction Analysis Dashboard
 
+
+> **Download the full Power BI (.pbix) file [here](https://drive.google.com/drive/u/0/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&hl=en)**  
+> (200 MB – hosted on Google Drive due to GitHub's size limit)
+
+
 ## 📊 Project Overview
 
 This project is a data-driven investigation into suspected money laundering activity using transactional data. The goal is to identify laundering trends, high-risk entities, common laundering methods, and temporal patterns, and to provide actionable recommendations for AML compliance and enforcement teams.
